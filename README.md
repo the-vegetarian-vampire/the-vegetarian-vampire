@@ -1,5 +1,3 @@
-### John Lawniczak
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)](https://git.io/typing-svg)
 - Currently learning Solidity smart contracts.
 
