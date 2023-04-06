@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)](https://git.io/typing-svg)
-<p align="center">
+- Smart contracts
+- Zk rollups
+- Web3
 
-<p align="center">
-<a href="https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
-          </p>
+
+<a href="https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA"><img width="25px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
+         
           
 ----- 
 
