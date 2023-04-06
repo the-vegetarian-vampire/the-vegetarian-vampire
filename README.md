@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)
 - Smart contracts
 - Zk rollups
 - Web3
