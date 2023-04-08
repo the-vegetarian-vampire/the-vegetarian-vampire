@@ -2,7 +2,7 @@
 I'm a `NYC based software engineer` currently learning `Solidity` smart contracts and `Ethereum Layer2` protocols.   
 Highly motivated and eager to learn from all of my peers, I have a strong interest in blockchain security and finance. In the future I'd like to learn more C++, Rust, new evolving databases, and scaling the blockchain.
 
-`Seeking` a blockchain web3 smart contracts position or `internship`.     
+`Seeking` a smart contracts position or `internship`.     
 
 Follow me on Youtube and connect with me on LinkedIn.
 <br>
