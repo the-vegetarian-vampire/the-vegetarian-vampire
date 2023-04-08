@@ -1,10 +1,15 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)
-- Smart contracts
-- Zk rollups
-- Web3
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)   
+I'm a `NYC based software engineer` currently learning `Solidity` smart contracts and `Ethereum Layer2` protocols.   
+Highly motivated and eager to learn from all of my peers, I have a strong interest in blockchain security and finance. In the future I'd like to learn more C++, Rust, new evolving databases, and scaling the blockchain.
 
+`Seeking` a blockchain web3 smart contracts position or `internship`.     
 
-<a href="https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA"><img width="25px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
+Follow me on Youtube and connect with me on LinkedIn.
+<br>
+
+   
+<a href="https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA"><img width="25px" padding="45px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/> &nbsp; 
+<a href="https://www.linkedin.com/in/john-alexander-4ab71176/"><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
          
           
 ----- 
