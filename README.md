@@ -8,8 +8,8 @@ Follow me on Youtube and connect with me on LinkedIn.
 <br>
 
    
-<a href="https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA"><img width="25px" padding="45px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/> &nbsp; 
-<a href="https://www.linkedin.com/in/john-alexander-4ab71176/"><img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA"><img width="22px" padding="45px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/> &nbsp; 
+<a href="https://www.linkedin.com/in/john-alexander-4ab71176/"><img width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
          
           
 ----- 
@@ -24,3 +24,4 @@ Follow me on Youtube and connect with me on LinkedIn.
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
