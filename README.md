@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)   
-I'm a `NYC based software engineer` currently learning `Solidity` smart contracts and `Ethereum Layer2` protocols.   
+I'm a `NYC based software engineer` learning `Solidity` smart contracts and `Ethereum Layer2` protocols.   
 
 Highly motivated and eager to learn from all of my peers, I have a strong interest in blockchain security and finance. In the future I'd like to learn more about C++, bridges, order books, staking, and scaling the blockchain.
 
-`Seeking a smart contract auditing position.`     
+`Seeking a smart contract position.`     
 
 Follow me on Youtube and connect with me on LinkedIn.
 <br>
