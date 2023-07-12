@@ -7,14 +7,11 @@ I'm a `NYC based software engineer` specialized in `Solidity` smart contracts an
 
 Track my wallet `0xA9e23aA93a93E1BCb28393c1c1B697bb11b1BBc9` on [Sepolia Etherscan](https://sepolia.etherscan.io/address/0xa9e23aa93a93e1bcb28393c1c1b697bb11b1bbc9)   
 
-`Seeking a smart contract position.`     
-
-Follow me on Youtube and connect with me on LinkedIn.
 <br>
-
-   
-<a href="https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA"><img width="22px" padding="45px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/> &nbsp; 
-<a href="https://www.linkedin.com/in/john-lawniczak-767b511ba/"><img width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+ 
+[![JohnnyLaw Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJohnnyLaw)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lawniczak-767b511ba/)
          
           
 ----- 
