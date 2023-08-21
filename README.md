@@ -3,7 +3,7 @@
 
 - I have extensive knowledge about `blockchain security` and `finance`.    
 - Find me on [Codehawks](https://www.codehawks.com/) and [Code4rena](https://code4rena.com/)
-- Get Johnny Coin from my faucet at [JohnLawniczak.com](www.johnlawniczak.com)  
+- Get Johnny Coin from my faucet at [JohnLawniczak.com](https://johnlawniczak.com/)  
 
 Track my wallet `0xA9e23aA93a93E1BCb28393c1c1B697bb11b1BBc9` on [Sepolia Etherscan](https://sepolia.etherscan.io/address/0xa9e23aa93a93e1bcb28393c1c1b697bb11b1bbc9)   
 
