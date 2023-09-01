@@ -1,11 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)   
-`NYC based smart contract auditor` specialized in `Solidity` smart contracts and `Ethereum` protocols.   
+`NYC based engineer` specialized in `Solidity` smart contracts and `Ethereum` protocols.   
 
 - I have extensive knowledge about `blockchain security` and `finance`.    
 - Find me on [Codehawks](https://www.codehawks.com/) and [Code4rena](https://code4rena.com/)
 - Get _Johnny Coin_ from my faucet at [JohnLawniczak.com](https://johnlawniczak.com/)  
-
-Track my wallet `0xA9e23aA93a93E1BCb28393c1c1B697bb11b1BBc9` on [Sepolia Etherscan](https://sepolia.etherscan.io/address/0xa9e23aa93a93e1bcb28393c1c1b697bb11b1bbc9)   
 
 <br>
  
@@ -18,7 +16,7 @@ Track my wallet `0xA9e23aA93a93E1BCb28393c1c1B697bb11b1BBc9` on [Sepolia Ethersc
 
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-
+<img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
