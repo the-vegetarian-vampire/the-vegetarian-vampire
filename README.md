@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)   
-`NYC based engineer` specialized in `Solidity` smart contracts and `Ethereum` protocols.   
+`NYC based software engineer` specialized in `C++` `Solidity` and `AWS cloud technology`   
 
 - I have extensive knowledge about `blockchain security` and `finance`.    
-- Find me on [Codehawks](https://www.codehawks.com/) and [Code4rena](https://code4rena.com/)
+- Find me on [Codehawks](https://www.codehawks.com/)
 - Get _Johnny Coin_ from my faucet at [JohnLawniczak.com](https://johnlawniczak.com/)  
 
 <br>
@@ -16,7 +16,7 @@
 
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" width="25px" style="padding-right: 14px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" width="25px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
