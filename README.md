@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)   
 `NYC based software engineer` specialized in `C++` `Solidity` and `AWS cloud technology`   
 
-- I have extensive knowledge about `blockchain security` and `finance`.    
-- Find me on [Codehawks](https://www.codehawks.com/)
-- Get _Johnny Coin_ from my faucet at [JohnLawniczak.com](https://johnlawniczak.com/)  
+- I have extensive knowledge about `blockchain security` and `finance`.
+- My website [JohnLawniczak.com](https://johnlawniczak.com/)  
+- Currently building [Owlzzzz.com](www.owlzzz.com)
 
 <br>
  
