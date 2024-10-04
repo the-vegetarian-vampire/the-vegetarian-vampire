@@ -1,14 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)   
 `NYC based software engineer` 
-- C++, Data Structures and Algorithms, and Cloud technology   
+- Blockchain, C++/GO, and AWS  
 - Resume and website --> [JohnLawniczak.com](https://johnlawniczak.com/)  
-- Currently building --> [Owlzzzz.com](www.owlzzz.com)
 
 <br>
  
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnlawniczak)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJohnnyLaw)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFMVgLr81G-opGABi2c8-PA)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lawniczak-767b511ba/)
           
 ----- 
