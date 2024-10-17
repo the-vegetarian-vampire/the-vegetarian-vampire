@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=John+Lawniczak)   
 `NYC based software engineer` 
-- Blockchain, C++/GO, and AWS  
+- Blockchain, C++/GO, AWS DevOps
 - Resume and website --> [JohnLawniczak.com](https://johnlawniczak.com/)  
 
 <br>
